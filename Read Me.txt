@@ -1,0 +1,2 @@
+These files allow a admin to set them self to the owner of the files located in a folder
+this tool can be used if no one is allowed to access the files becouse of file permision mix up
